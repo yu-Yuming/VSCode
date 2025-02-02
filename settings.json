@@ -1,4 +1,4 @@
-// theme customize (detailed)
+    // theme customize (detailed)
     "editor.tokenColorCustomizations": {
         // Based on Material Night Eighties
         "[Material Night Eighties]": {
@@ -547,4 +547,4 @@
                 }
             ]
         }
-    }
+    },
